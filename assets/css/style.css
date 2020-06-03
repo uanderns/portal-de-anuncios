@@ -389,6 +389,11 @@ font-size: 14px;
 	font-size: 30px;
 }
 
+
+.menumobile{
+	display: none;
+}
+
 @media only screen and (min-width:906px) and (max-width:1057px){
 
 	.topoint,
@@ -431,6 +436,10 @@ font-size: 14px;
 
 	.topo2 .banner{
 		display: none;
+	}
+
+	#menu{
+		display: block !important;
 	}
 
 	.logo{
@@ -494,7 +503,32 @@ font-size: 14px;
 	}
 
 	.menuint{
+		
+	}
+
+	.menumobile{
+		display: block;
+	}
+
+	.menu ul{
+		position: absolute;
+		background-color: red;
+		z-index: 10;
 		display: none;
+	}
+
+	.menu li{
+		float:none;
+		height: auto;
+	}
+
+	.menu li img{
+		display: none;
+	}
+
+	.submenu{
+		position: static;
+		display: block;
 	}
 
 	.ultimasnoticias{
