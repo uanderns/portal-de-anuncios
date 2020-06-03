@@ -4,4 +4,4 @@
 - CSS
 - JAVASCRIPT
 
-https://user-images.githubusercontent.com/59483858/83695974-a7315f00-a5d1-11ea-9762-24747f6826be.PNG
+![mobile](https://user-images.githubusercontent.com/59483858/83696302-7c93d600-a5d2-11ea-92a1-8fc5c84c766b.PNG)
