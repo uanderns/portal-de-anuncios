@@ -1,6 +1,6 @@
 var slideItem = 0;
 window.onload = function () {
-	setInterval(passarSlide, 2000);
+	setInterval(passarSlide, 3000);
 
 	var slidewidth = document.getElementById("slideshow").offsetWidth;
 	var objs = document.getElementsByClassName("slide");
